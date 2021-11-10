@@ -10,13 +10,13 @@
     "product_version_regex": ".*",
     "publisher": "Splunk Community",
     "contributors": [
-      {
-        "name": "Erica Pescio"
-      }
+        {
+            "name": "Erica Pescio"
+        }
     ],
     "license": "Copyright (c) 2020 Splunk Inc.",
-    "app_version": "1.0.2",
-    "utctime_updated": "2020-12-02T20:06:52.000000Z",
+    "app_version": "1.0.3",
+    "utctime_updated": "2021-11-10T18:36:01.000000Z",
     "package_name": "phantom_smime",
     "main_module": "smime_connector.pyc",
     "min_phantom_version": "4.8.24304",
