@@ -1,27 +1,22 @@
 Splunk SOAR S/MIME
-Copyright 2021 Splunk Inc.
+Copyright (c) 2020 Splunk Inc.
 
 Third-party Software Attributions:
 
 Library: beautifulsoup4
 Version: 4.9.1
 License: MIT
-Copyright 2018 Isaac Muse
-Copyright 2004-2019 Leonard Richardson
 Copyright 2004-2017 Leonard Richardson
-
-Library: typing
-Version: 3.7.4.3
-License: Python 2.0
-Copyright 2001-2002 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
-Copyright 1991-1995 Stichting Mathematisch Centrum Amsterdam,
-
-Library: pudb
-Version: 2019.2
-License: MIT
-Copyright 2009 Andreas Kloeckner and contributors
+Copyright 2004-2019 Leonard Richardson
+Copyright 2018 Isaac Muse
 
 Library: requests
 Version: 2.25.0
 License: Apache 2.0
 Kenneth Reitz
+
+Library: typing
+Version: 3.7.4.3
+License: Python 2.0
+Copyright 1991-1995 Stichting Mathematisch Centrum Amsterdam,
+Copyright 2001-2002 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
